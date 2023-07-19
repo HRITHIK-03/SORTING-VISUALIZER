@@ -19,3 +19,6 @@ Key features of this web application include:
 5. Responsive Design: The web application is designed to be responsive and accessible across various devices and screen sizes, ensuring a seamless user experience on desktops, laptops, tablets, and smartphones.
 
 This GitHub project serves as a valuable learning resource, fostering a deeper understanding of sorting algorithms through interactive visualization. It encourages experimentation, algorithmic exploration, and the development of optimized sorting solutions. Whether you're a novice programmer or an experienced developer, this web application is an excellent tool for enhancing your understanding of sorting algorithms and their performance characteristics.
+
+
+The Live Demo can be accessed at - https://hrithik-03.github.io/SORTING-VISUALIZER/
